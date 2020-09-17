@@ -1,0 +1,22 @@
+body{
+    margin: 10rem 28rem;
+}
+h1{
+    color: blue;
+}
+ul{
+	list-style: none;
+}
+ul li {
+	float: left;
+}
+
+.slide{
+	width: 400px;
+	margin-left: 40px;
+	border: 1px solid blue;
+	text-align: center;
+}
+p{
+	font-size: 20px;
+}
